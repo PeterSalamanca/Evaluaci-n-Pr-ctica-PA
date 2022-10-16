@@ -1,0 +1,7 @@
+El modelo-vista-controlador representa un patron 
+de arquitectura que nos permite especificar los 
+diferentes esquemas o procesos que debe contener 
+nuestra aplicacion software, la cual nos permite separar 
+la logica del negocio con relacion a la interfaz de usuario, 
+de esta manera poder determinar las diferentes variables que 
+influyen en la transformacion de los datos almacenados.
